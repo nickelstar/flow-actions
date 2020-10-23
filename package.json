@@ -1,0 +1,24 @@
+{
+  "name": "flow-actions",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clinit": "changelog --init"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "keep-a-changelog": "^0.10.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickelstar/flow-actions.git"
+  },
+  "author": "Nicholas Gates",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickelstar/flow-actions/issues"
+  },
+  "homepage": "https://github.com/nickelstar/flow-actions#readme"
+}
